@@ -1,11 +1,12 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="voting-system-backend" type="Python.FlaskServer">
+    <option name="flaskDebug" value="true" />
     <module name="voting-system-backend" />
     <option name="target" value="$PROJECT_DIR$/app.py" />
     <option name="targetType" value="PATH" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
-    <option name="SDK_HOME" value="C:\Users\doohe\PycharmProjects\voting-system-backend\venv\Scripts\python.exe" />
+    <option name="SDK_HOME" value="sftp://mrs@mrsmc.xyz:22/home/mrs/voting-system-backend/venv/bin/python" />
     <option name="WORKING_DIRECTORY" value="" />
     <option name="IS_MODULE_SDK" value="false" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
